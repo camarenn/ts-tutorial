@@ -1,7 +1,7 @@
 # ts-tutorial
 In this tutorial you will find the basic code that is needed to connect your Arduino uno with your website, and a simple sensor. 
 
-The index.php file is what you will need to connect your Arduino Uno to your new website. You will need to host your website on a local server such as MAMP for Mac users, or Wamp for Windows users. 
+The index.php file is what you will need to connect your Arduino Uno to your new website. You will need to host your website on a local server such as MAMP for Mac users, or WAMP for Windows users. 
 
 The code in the index.php file sets up the basic connection between your two devices and creates two buttons on your websites' interface that will allow you to turn an LED light on and off, and recieve a confirmation one that has been completed.
 
