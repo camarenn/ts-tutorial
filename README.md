@@ -1,5 +1,5 @@
 # ts-tutorial
-In this tutorial you will find the basic code that is needed to connect your Arduino uno with your website, and a simple sensor. 
+In this tutorial you will find the basic code that is needed to connect your Arduino uno with your website, a simple sensor, and connecting it to Processing to display your data (which can then also be embeded in your website). 
 
 The index.php file is what you will need to connect your Arduino Uno to your new website. You will need to host your website on a local server such as MAMP for Mac users, or WAMP for Windows users. 
 
