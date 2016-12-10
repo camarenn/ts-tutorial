@@ -16,7 +16,7 @@ The next piece is to set up the connection between the Arduino application and P
 The code for the Processing is to connect to the serial monitor and import the data and then graph it as it reads information from the sensor. This can be changed accordingly, you can change the size, the colour, the way it is displayed, etc. 
 
 If you wish to embed the graph that is generated through Processing into your website follow these steps. The way this works is that your sketch is compiled into Javascript and then uses the HTML5 Canvas element to display the output. 
-    You must first save your processing file using the .pde extension. Now you can embed this element in your HTML website/ or in the         index.php website - you now need to embed a copy of your .pde file in the same folder that you have your index.php file, along with a     copy of the processing.js file which you can get off of their website.  
+    You must first save your processing file using the .pde extension. Now you can embed this element in your HTML website/ or in the         index.php website - you now need to embed a copy of your .pde file in the same folder that you have your index.php file, along with a     copy of the processing.js file which you can get off of their website which you can download here: http://processingjs.org/download/
     In the head of your HTML file you will have to include these two tags:
         <script type="text/javascript" src="processing.js"></script>
         <canvas data-processing-sources="myProgram.pde"></canvas>
